@@ -1,6 +1,3 @@
-
-
-<!--
 # Amir Hashemnezhad
 
 Researcher in Music Technology and Creative AI
