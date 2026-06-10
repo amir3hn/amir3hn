@@ -1,16 +1,33 @@
 ## Hi there 👋
 
 <!--
-**amir3hn/amir3hn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Amir Hashemnezhad
 
-Here are some ideas to get you started:
+Researcher in Music Technology and Creative AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Research Interests
+- Sound and Music Computing
+- Machine Learning for Music
+- Generative Music Systems
+- Computational Creativity
+- Human-AI Collaboration
+
+## Education
+M.A. Music Performance
+Art University of Tehran
+
+B.Sc. Electronic Engineering
+University of Seraj
+
+## Technical Skills
+- Python
+- PyTorch
+- C++
+- MATLAB
+- Audio Signal Processing
+- Cubase
+- Machine Learning
+
+## Current Research
+Music Generation in Iranian Classical Music Using Neural Networks
 -->
